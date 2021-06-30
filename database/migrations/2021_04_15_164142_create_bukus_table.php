@@ -16,8 +16,8 @@ class CreateBukusTable extends Migration
         Schema::create('bukus', function (Blueprint $table) {
             $table->id();
             $table->string('no_surat');
-            $table->string('tanggal_surat');
-            $table->string('judul_surat');
+            $table->string('tgl_surat');
+            $table->string('pengirim');
             $table->string('gambar');
             $table->string('public_id');
             $table->timestamps();

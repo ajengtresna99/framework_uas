@@ -1,14 +1,9 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
-#### By
-- Nama  : Ade Sugiantoro
-- NIM   : 18090064
-- Kelas : 6B
-#### Tools
-- Laravel       : Framework PHP
-- Bootstrap     : Framework CSS
-- PostgreSQL    : Database
-- Heroku        : Deployment
+### Link Heroku : http://surat-masuk-app.herokuapp.com/login
+### Link Laporan : https://drive.google.com/file/d/1qa-tgwex3Qnwc2IT7-khO5HygB_QkMVY/view?usp=sharing
+
+- Nama  : Ajeng Tresna Azizah
+- NIM   : 19092002
+- Kelas : 6C
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>

@@ -1,10 +1,6 @@
 - Link Heroku : http://surat-masuk-app.herokuapp.com/login
 - Link Laporan : https://drive.google.com/file/d/1qa-tgwex3Qnwc2IT7-khO5HygB_QkMVY/view?usp=sharing
 
-- Nama  : Ajeng Tresna Azizah
-- NIM   : 19092002
-- Kelas : 6C
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
